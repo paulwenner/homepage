@@ -1,4 +1,5 @@
 # Personal Homepage of Paul Wenner
+# Link: https://paulwenner.github.io./
 ## Introduction
 Welcome to the repository for my personal homepage. This website serves as a digital portfolio showcasing my interests and accomplishments in various areas including computer science, music (DJing), and strength training.
 ## Disclaimer
