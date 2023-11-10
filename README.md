@@ -1,6 +1,8 @@
 # Personal Homepage of Paul Wenner
 ## Introduction
 Welcome to the repository for my personal homepage. This website serves as a digital portfolio showcasing my interests and accomplishments in various areas including computer science, music (DJing), and strength training.
+## Disclaimer
+This website was originally programmed by me for a CS50 problem set. However, since nothing was provided and I programmed the website from scratch, I would still like to publish it.
 
 ## Website Structure
 Home: The landing page introduces visitors to the site and includes a carousel with highlights of my projects and interests.
