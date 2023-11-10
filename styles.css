@@ -1,0 +1,104 @@
+body {
+    background-color: #262626;
+}
+
+.custom-hr {
+    background-color: #484848;
+}
+
+
+
+.sign {
+    width: 100%;
+    clip-path: polygon(0 200px, 100% 200px, 100% calc(100% - 200px), 0 calc(100% - 200px));
+    margin-top: -410px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.blend-image {
+    height: 50%;
+    z-index: 1;
+    width: auto;
+    mix-blend-mode: screen;
+}
+
+.over {
+    z-index: 2;
+}
+
+.under {
+    z-index: 1;
+}
+
+.out {
+    position: relative;
+}
+
+footer {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+
+.fixed-bg {
+    position: fixed;
+}
+
+.invisivble {
+    opacity: 0%;
+    height: 730px;
+    width: 100%;
+}
+.deactive:hover {
+    background-color : #393939 !important;
+}
+
+a {
+    text-decoration: none;
+}
+
+.link-item {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #e5e5e5;
+    margin: 5px;
+    background-color: #f9f9f9;
+}
+
+
+.social_logo {
+    width: 40px;
+}
+
+.rounded-image {
+    overflow: hidden;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.rounded-image-content {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.link-item {
+    background-color: #393939;
+    border: 0px;
+    border-radius: 30px;
+}
+
+.card-body2:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
