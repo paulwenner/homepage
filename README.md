@@ -26,5 +26,3 @@ Bootstrap for responsive design.
 External APIs for embedding multimedia content.
 
 
-this is a test
-
